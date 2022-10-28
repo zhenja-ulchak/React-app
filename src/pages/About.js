@@ -53,7 +53,7 @@ export default class About extends  Component{
                         <Col sm={9}>
                             <Tab.Content>
                                 <Tab.Pane eventKey="first">
-                                    <img src={imgTab1} style={tabMain}/>
+                                    <img src={imgTab1} style={tabMain} alt="img"/>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking
                                         at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                                         as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
@@ -63,7 +63,7 @@ export default class About extends  Component{
                                             </p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="second">
-                                    <img src={imgTab2} style={tabMain}/>
+                                    <img src={imgTab2} style={tabMain} alt="img"/>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking
                                         at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                                         as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
@@ -73,7 +73,7 @@ export default class About extends  Component{
                                             </p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="third">
-                                    <img src={imgTab3} style={tabMain}/>
+                                    <img src={imgTab3} style={tabMain} alt="img"/>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking
                                         at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                                         as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
@@ -83,7 +83,7 @@ export default class About extends  Component{
                                             </p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fourth">
-                                    <img src={imgTab4} style={tabMain}/>
+                                    <img src={imgTab4} style={tabMain} alt="img"/>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking
                                         at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                                         as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
@@ -93,7 +93,7 @@ export default class About extends  Component{
                                             </p>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fifth">
-                                    <img src={imgTab5} style={tabMain}/>
+                                    <img src={imgTab5} style={tabMain} alt="img"/>
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking
                                         at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                                         as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing
